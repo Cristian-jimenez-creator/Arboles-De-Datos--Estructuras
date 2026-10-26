@@ -1,0 +1,103 @@
+{
+    "node_id": null,
+    "name": "PROYECTO_SISTEMAS",
+    "is_file": false,
+    "file_type": "text",
+    "content": "",
+    "item_count": 6,
+    "children": [
+        {
+            "node_id": null,
+            "name": "src",
+            "is_file": false,
+            "file_type": "text",
+            "content": "",
+            "item_count": 2,
+            "children": [
+                {
+                    "node_id": null,
+                    "name": "main.py",
+                    "is_file": true,
+                    "file_type": "code",
+                    "content": "# Código Principal en Python\n\ndef main():\n    print('¡Hola Estructura de Datos!')\n\nif __name__ == '__main__':\n    main()",
+                    "item_count": 0,
+                    "children": []
+                },
+                {
+                    "node_id": null,
+                    "name": "app.js",
+                    "is_file": true,
+                    "file_type": "code",
+                    "content": "// Cliente JavaScript\nconsole.log('Explorador inicializado');",
+                    "item_count": 0,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "node_id": null,
+            "name": "documentos",
+            "is_file": false,
+            "file_type": "text",
+            "content": "",
+            "item_count": 1,
+            "children": [
+                {
+                    "node_id": null,
+                    "name": "Informe_Parcial.pdf",
+                    "is_file": true,
+                    "file_type": "pdf",
+                    "content": "Documento PDF: Informe de avance del semestre.",
+                    "item_count": 0,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "node_id": null,
+            "name": "README.md",
+            "is_file": true,
+            "file_type": "doc",
+            "content": "# Proyecto Explorador de Archivos\nEstructura de Árbol N-Ario con interfaz web en Español.",
+            "item_count": 0,
+            "children": []
+        },
+        {
+            "node_id": null,
+            "name": "weeg",
+            "is_file": false,
+            "file_type": "folder",
+            "content": "",
+            "item_count": 0,
+            "children": []
+        },
+        {
+            "node_id": null,
+            "name": "eewte",
+            "is_file": false,
+            "file_type": "folder",
+            "content": "",
+            "item_count": 1,
+            "children": [
+                {
+                    "node_id": null,
+                    "name": "er",
+                    "is_file": true,
+                    "file_type": "file",
+                    "content": "",
+                    "item_count": 0,
+                    "children": []
+                }
+            ]
+        },
+        {
+            "node_id": "node_b2213255",
+            "name": "Archivo 1",
+            "is_file": true,
+            "file_type": "text",
+            "content": "efgr",
+            "item_count": 0,
+            "children": []
+        }
+    ]
+}
