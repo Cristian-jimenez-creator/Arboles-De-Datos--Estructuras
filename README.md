@@ -1,5 +1,6 @@
 # Arboles-De-Datos--Estructuras
-Antenas: red de señales. Prompt: nodo raíz...Partes de un Árbol de datos Raíz: primer nodo de un Árbol. Nodos: elemento que contiene un Árbol. Nodo Padre: tiene al menos un hijo. Nodo Hijo: nodos que tienen un padre. Nodo Hermano: comparte a un mismo padre. Nodo Hoja: no tienen hijos,siempre se encuentran en los extremos de la estructura. 
+Antenas: red de señales. Prompt: nodo raíz.
+Partes de un Árbol de datos Raíz: primer nodo de un Árbol. Nodos: elemento que contiene un Árbol. Nodo Padre: tiene al menos un hijo. Nodo Hijo: nodos que tienen un padre. Nodo Hermano: comparte a un mismo padre. Nodo Hoja: no tienen hijos,siempre se encuentran en los extremos de la estructura. 
 # ¿Qué hice?: 
 Un Explorador de Archivos interactivo tipo VS Code que permite crear, renombrar, eliminar, buscar en tiempo real, ver contadores de elementos y mover carpetas/archivos mediante Drag and Drop.
 # ¿Qué tipo de árbol utilizamos?: 
